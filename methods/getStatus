@@ -1,0 +1,23 @@
+getStatus method
+-----------------
+
+Through this method you will be able to see the status of the number!
+
+## Using
+
+| params | type    | required |
+|-------|----------|----------|
+| `id_number`  | Integer     | Yes     |
+
+## Example
+
+```python
+import smsactivateapi
+
+def call():
+    api = VOIPGenerator("api_key")
+    return api.getStatus(234331)
+
+print call()
+```
+All response will be in [json](https://www.json.org/json-it.html) format!
