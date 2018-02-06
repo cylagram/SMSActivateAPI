@@ -32,7 +32,7 @@ Available methods of this library:
 - [x] [getNumbersStatus](https://github.com/cylagram/SMSActivateAPI/blob/master/methods/getNumbersStatus.md)
 - [x] [getBalance](https://github.com/cylagram/SMSActivateAPI/blob/master/methods/getBalance.md)
 - [x] [getNumber](https://github.com/cylagram/SMSActivateAPI/blob/master/methods/getNumber.md)
-- [x] getStatus
+- [x] [getStatus](https://github.com/cylagram/SMSActivateAPI/blob/master/methods/getStatus.md)
 - [ ] setStatus
 
 
