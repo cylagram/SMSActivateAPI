@@ -1,4 +1,5 @@
-SMSActivateAPI
+SMSActivateAPI<br />
+![status](https://img.shields.io/pypi/status/Django.svg)
 ==============
 A simple library to management of your personal sms-activate.ru account!
 
@@ -47,6 +48,11 @@ Here is a list! The error will also be described in the response of the **method
 » `401` •  Country invalid, use another!<br />
 » `402` •  The api_key is missing!<br />
 » `403` •  The activation ID does not exist!<br />
+
+
+Official API
+------------
+You can see the official [documentation](http://sms-activate.ru/index.php?act=api) on the sms-activate.ru website! It is written in Russian, use the [translator](https://translate.google.it/?hl=it) if you do not understand!
 
 
 Support
