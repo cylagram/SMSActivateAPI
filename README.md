@@ -1,5 +1,5 @@
 SMSActivateAPI<br />
-![status](https://img.shields.io/pypi/status/Django.svg)
+![status](https://img.shields.io/pypi/status/Django.svg)   ![rtfm](https://img.shields.io/readthedocs/pip.svg)   ![py](https://img.shields.io/badge/python-2.7-yellow.svg)   ![telegram](https://img.shields.io/badge/telegram-%40cylagram-blue.svg)
 ==============
 A simple library to management of your personal sms-activate.ru account!
 
