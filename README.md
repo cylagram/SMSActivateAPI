@@ -4,6 +4,15 @@ SMSActivateAPI<br />
 A simple library to manage your personal sms-activate.ru account!
 
 
+Dipendence
+----------
+
+Install [requests](http://docs.python-requests.org/en/master/) like this:
+```sh
+pip install requests
+```
+
+
 Installation
 ------------
 
