@@ -30,7 +30,7 @@ Let's start by instantiating the class:
 ```python
 import smsactivateapi
 
-sms = VOIPGenerator("your_api_token")   #you can find the api_token in your smsactivate account!
+sms = smsactivateapi.VOIPGenerator("your_api_token")   #you can find the api_token in your smsactivate account!
 print sms.getBalance()
 ```
 
