@@ -19,7 +19,7 @@ Installation
 Installing this library is very easy!
 ```sh
 sudo apt-get install git
-sudo git https://github.com/cylagram/SMSActivateAPI.git
+sudo git clone https://github.com/cylagram/SMSActivateAPI.git
 ```
 
 Usage
