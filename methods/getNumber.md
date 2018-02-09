@@ -16,7 +16,7 @@ Through this method you can buy a number with the account balance associated wit
 import smsactivateapi
 
 def call():
-    api = VOIPGenerator("api_key")
+    api = smsactivateapi.VOIPGenerator("api_key")
     return api.getNumber("tg","2")
 
 print call()
