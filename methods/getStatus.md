@@ -15,7 +15,7 @@ Through this method you will be able to see the status of the number!
 import smsactivateapi
 
 def call():
-    api = VOIPGenerator("api_key")
+    api = smsactivateapi.VOIPGenerator("api_key")
     return api.getStatus(234331)
 
 print call()
