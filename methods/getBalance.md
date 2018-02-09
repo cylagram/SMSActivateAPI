@@ -15,7 +15,7 @@ Through this method you will know the balance of the account associated with the
 import smsactivateapi
 
 def call():
-    api = VOIPGenerator("api_key")
+    api = smsactivateapi.VOIPGenerator("api_key")
     return api.getBalance()
 
 print call()
