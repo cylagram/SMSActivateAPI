@@ -17,7 +17,7 @@ import smsactivateapi
 
 def call():
     api = VOIPGenerator("api_key")
-    return api.getNumber("tg","ru")
+    return api.getNumber("tg","2")
 
 print call()
 ```
